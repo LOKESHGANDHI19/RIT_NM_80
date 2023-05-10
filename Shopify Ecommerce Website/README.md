@@ -1,8 +1,8 @@
 # Next.js + Shopify + Builder.io starter kit
 
-The ultimate starter for headless Shopify stores.
+Ecommerce Website
 
-Demo live at: [headless.builders](https://headless.builders/)
+Hosting live at: [headless.builders](https://headless.builders/)
 
 ## Goals and Features
 
@@ -11,14 +11,6 @@ Demo live at: [headless.builders](https://headless.builders/)
 - Themable
 - Personalizable (internationalization, a/b testing, etc)
 - Builder.io Visual CMS integrated
-
-## Video walkthrough
-
-Learn how to get started with this Builder + Next.js + Shopify starter with this step by step video guide here:
-
-<a href="https://www.youtube.com/watch?v=uIHqPu2t1O0">
-  <img width="400" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fc161ccb26f6446869cba865d014c7caf" />  
-</a>
 
 ## Table of contents
 
